@@ -1,7 +1,8 @@
 # MorseCode
 Android application for Morse code study
 
-#Use cases are:
+Use cases are:
+---------------
 * overview alphabet 
 * learn by looking at letter card, one by one
 
