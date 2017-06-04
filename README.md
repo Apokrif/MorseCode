@@ -8,5 +8,6 @@ Use cases are:
 
 []()
 
-#License
+License
+-------
 Apache Version 2.0
