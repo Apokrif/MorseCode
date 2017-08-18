@@ -54,7 +54,7 @@ public class AlphabetActivity extends AppCompatActivity {
     }
 
     private void showDetails() {
-        mTextMessage.setText(R.string.title_details);
+        mTextMessage.setText(getResources().getStringArray(R.array.Sentences)[0]);
     }
 
     //endregion

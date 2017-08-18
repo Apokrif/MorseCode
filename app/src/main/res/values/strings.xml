@@ -10,4 +10,9 @@
     Each Morse code symbol represents either a text character (letter or numeral) or a prosign and is represented by a unique sequence of dots and dashes.
     The duration of a dash is three times the duration of a dot. Each dot or dash is followed by a short silence, equal to the dot duration. The letters of a word are separated by a space equal to three dots (one dash), and the words are separated by a space equal to seven dots. The dot duration is the basic unit of time measurement in code transmission. To increase the speed of the communication, the code was designed so that the length of each character in Morse varies approximately inversely to its frequency of occurrence in English. Thus the most common letter in English, the letter "E", has the shortest code, a single dot.
     (From Wikipedia, the free encyclopedia)</string>
+    <string-array name="Sentences">
+        <item>ཁྱེད་རང་གི་རོགས་པ་ག་པར་བཞུགས་ཀྱི་འདུག
+ཁོང་གཞིས་ཀྭ་རྕེར་བཞུགས་ཀྱི་འདུག
+</item>
+    </string-array>
 </resources>
